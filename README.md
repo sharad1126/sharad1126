@@ -6,4 +6,4 @@
 
 ### Some of my best clicks are available on [behance](https://www.behance.net/sharad1126)
 
-### Reach me on twitter: [@shad1126](https://twitter.com/shad1126)
+### Reach me on twitter: https://img.shields.io/twitter/follow/shad1126?style=social
