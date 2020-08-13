@@ -4,6 +4,6 @@ Check out my publications here - [![orcid](https://img.shields.io/badge/Orcid-sh
 
 [Personal Portfolio](https://sharad1126.github.io/)
 
-[![behance]((https://img.shields.io/badge/Behance-sharadagarwal-blue&?logo=behance))](https://www.behance.net/sharad1126)
+[![behance](https://img.shields.io/badge/Behance-sharadagarwal-blue&?logo=behance)](https://www.behance.net/sharad1126)
 
 [![twitter](https://img.shields.io/twitter/follow/shad1126?style=social)](https://twitter.com/shad1126)
