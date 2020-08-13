@@ -4,6 +4,6 @@
 
 ### [Personal Portfolio](https://sharad1126.github.io/)
 
-### Some of my best clicks are available on [behance](https://www.behance.net/sharad1126)
+[![behance](https://www.behance.net/sharad1126)]
 
 [![twitter](https://img.shields.io/twitter/follow/shad1126?style=social)]((https://twitter.com/shad1126))
