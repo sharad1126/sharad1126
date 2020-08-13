@@ -6,4 +6,4 @@ Check out my publications here - [![orcid](https://img.shields.io/badge/orcid-sh
 
 [behance](https://www.behance.net/sharad1126)
 
-[![twitter](https://img.shields.io/twitter/follow/shad1126?style=social)]((https://twitter.com/shad1126))
+[![twitter](https://img.shields.io/twitter/follow/shad1126?style=social)](https://twitter.com/shad1126)
