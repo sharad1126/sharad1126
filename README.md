@@ -6,4 +6,4 @@
 
 ### Some of my best clicks are available on [behance](https://www.behance.net/sharad1126)
 
-[![twitter](https://img.shields.io/twitter/follow/shad1126?style=social)]((https://shields.io/))
+[![twitter](https://img.shields.io/twitter/follow/shad1126?style=social)]((https://twitter.com/shad1126))
