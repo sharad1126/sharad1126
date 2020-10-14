@@ -1,4 +1,4 @@
-## Hello! I'm Sharad Agarwal. I currently work @ CERN in the CMS Experiment.
+## Hello! I'm Sharad Agarwal. I am a master's student at University College London(UCL).
 
 Check out my publications here - [![orcid](https://img.shields.io/badge/Orcid-sharadagarwal-&?logo=orcid)](https://orcid.org/0000-0002-6492-5390) or [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-sharadagarwal-blue&?logo=google-scholar)](https://scholar.google.com/citations?user=yRVFJp8AAAAJ&hl=en)
 
