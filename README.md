@@ -1,4 +1,4 @@
-### Hello! I am a Computer Science Ph.D. student at the University College London. My research focuses on various online financial frauds:
+### Hello! I am a Computer Science Ph.D. Candidate at the University College London. My research focuses on various online financial frauds:
 * Investment Scams (incl. Cryptocurrency Scams) such as Online Ponzi Schemes (HYIPs) and Rugpulls;
 * SMS Scams like Hi Mum/Dad SMS Scams;
 * Smishing aka SMS Phishing.
