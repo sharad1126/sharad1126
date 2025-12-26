@@ -1,4 +1,4 @@
-### Hello! I am a final-year Computer Science Ph.D. Candidate at the University College London (UCL). My research focuses on various online financial frauds:
+### Hello! I have submitted my PhD dissertation titled "Measuring Online Financial Fraud Orginating from SMS Scams" at University College London (UCL). My research focuses on leveraging threat intelligence to investigate and disrupt online financial frauds, such as:
 * Investment Scams (incl. Cryptocurrency Scams) such as Online Ponzi Schemes (HYIPs) and Rugpulls;
 * Conversational SMS scams like Hi Mum/Dad SMS Scams resulting in Authorized Push-Payment (APP) Fraud;
 * Smishing, aka SMS Phishing;
@@ -6,7 +6,7 @@
 
 Check out my publications on [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-sharadagarwal-blue&?logo=google-scholar)](https://scholar.google.com/citations?user=yRVFJp8AAAAJ&hl=en)
 
-### Alongside my Ph.D., I work as a Product Analyst/Fraud Researcher at [Stop Scams UK](https://stopscamsuk.org.uk/), a cross-sector collaboration between the banking, telecom, and tech sectors.
+### Currently, I work as a Threat Intelligence Researcher at [Stop Scams UK](https://stopscamsuk.org.uk/), a cross-sector collaboration between the banking, telecom, and tech sectors. I am looking for new roles in the area of threat intelligence and/or preventing online financial crime. 
 
 If any of my repos helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/sharad1126)
 <a href="https://www.buymeacoffee.com/sharad1126" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="93"></a>
